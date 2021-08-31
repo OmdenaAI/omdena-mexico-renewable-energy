@@ -11,5 +11,5 @@ Note : Please Follow the below guidelines to create task folders
 
 | Task No| Task Name | Details |
 |-|-|-|
-|1|         |    |Data visualization|     | Visualize results and analysis
-|2|         |    |Estimate Energy Demand|  | Estimate demand using national census and geographical data
+| 1 | Data visualization     | Visualize results and analysis  |  
+| 2 | Estimate energy demand | Obtain demand per municipality |
